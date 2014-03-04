@@ -1,7 +1,7 @@
 enchant();
 
 var PATH_CHARA = 'chara1.gif';
-var COLOR_BG = '#eef';      //背景色
+var COLOR_BG = '#eef';      //Back Color
 
 var BULLET_CHAR = 'chara1.gif';
 
